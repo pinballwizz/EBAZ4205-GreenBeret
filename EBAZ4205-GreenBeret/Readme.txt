@@ -1,5 +1,5 @@
 Green Beret Arcade for the EBAZ-4205 ZYNQ-7010 FPGA Board. Pinballwiz.org 2026
-Code by Ace.
+Code by Mister-X.
 
 Notes:
 Setup for keyboard controls in Upright mode (5 = Coin) (1 = Start P1) (2 = Start P2) (LCtrl = Fire) (X = Attack) (Arrow Keys = Move D or L or R)
