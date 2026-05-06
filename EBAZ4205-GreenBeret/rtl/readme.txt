@@ -1,0 +1,1 @@
+All project files under the EBAZ4205-GreenBeret.srcs folder.
